@@ -1,8 +1,8 @@
-#This program calculate the location of planet near a star like the sun according to newton's second law and gravitational force.
-#You can play with vx and vy as the start velocity in each direction.
-#In low velocities , the planet may fall into the sun.
-#In moderate velocity the planet have elliptic path.
-#In high velocity , the planet escapes the sun.
+'''This program calculate the location of planet near a star like the sun according to newton's second law and gravitational force.
+You can play with vx and vy as the start velocity in each direction.
+In low velocities , the planet may fall into the sun.
+In moderate velocity the planet have elliptic path.
+In high velocity , the planet escapes the sun.'''
 
 from graphics import *
 import time
